@@ -1,0 +1,4 @@
+string.ascii_lowercase letra minuscula 
+string.ascii_uppercase letra maiuscula
+string.ascii_letters Contem todas a letras
+string.digits numeros de 0 a 9
